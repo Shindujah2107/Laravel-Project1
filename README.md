@@ -62,10 +62,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 Screenshot of project
+Home Page
 ![homepage](https://user-images.githubusercontent.com/69207728/135639912-74faa489-5430-41e4-ae3f-8b77846fe3e3.jpg)
+
+Login Page
 ![loginpage](https://user-images.githubusercontent.com/69207728/135639929-49412db2-7a91-4d9f-adeb-0381c64837f1.jpg)
+
+Find Available Vaccination Date
 ![Availablevaccinationdate](https://user-images.githubusercontent.com/69207728/135639991-00796cc1-369f-4107-8658-6aa769c5513e.jpg)
+
+User Appoinments
 ![Appoinments](https://user-images.githubusercontent.com/69207728/135639996-ac3d2086-e652-4717-9ff2-634695a26d24.jpg)
+
+Admin Dashboard
+![admindashboard](https://user-images.githubusercontent.com/69207728/135640575-fa79004e-cca6-41db-b4e2-c45384ca6939.jpg)
+
+Create Appoinment
+![createAppoinment](https://user-images.githubusercontent.com/69207728/135640583-2a1931ff-c5c5-49be-bec8-39bbca766b20.jpg)
+
+Check Appointment
+![checkappointment](https://user-images.githubusercontent.com/69207728/135640595-fb8a5ba5-be3e-4da0-ba47-d8133c353152.jpg)
+
+Prescription
+![prescription](https://user-images.githubusercontent.com/69207728/135640608-1cf8deae-f7e7-422f-829b-a24acddd1b12.jpg)
 
 
 

@@ -77,6 +77,9 @@ User Dashboard
 Find Available Vaccination Date
 ![Availablevaccinationdate](https://user-images.githubusercontent.com/69207728/135639991-00796cc1-369f-4107-8658-6aa769c5513e.jpg)
 
+Book Appointment
+![Screenshot 2021-10-03 013724](https://user-images.githubusercontent.com/69207728/135730511-a6fda561-770e-4c4b-8c36-e34a31e416bd.jpg)
+
 User Appoinments
 ![Appoinments](https://user-images.githubusercontent.com/69207728/135639996-ac3d2086-e652-4717-9ff2-634695a26d24.jpg)
 

@@ -65,9 +65,14 @@ Screenshot of project
 Home Page
 ![homepage](https://user-images.githubusercontent.com/69207728/135725957-20ce20a4-df79-4773-9c70-f9704089953a.png)
 
+Registration Page
+![Registration page](https://user-images.githubusercontent.com/69207728/135726146-e8cddeb1-5f37-4fb0-b931-2ea9042df5ea.jpg)
+
 Login Page
 ![loginpage](https://user-images.githubusercontent.com/69207728/135639929-49412db2-7a91-4d9f-adeb-0381c64837f1.jpg)
 
+User Dashboard
+![userdashboard](https://user-images.githubusercontent.com/69207728/135726142-e42695c9-e10d-4118-ad57-b557bff37e60.png)
 
 Find Available Vaccination Date
 ![Availablevaccinationdate](https://user-images.githubusercontent.com/69207728/135639991-00796cc1-369f-4107-8658-6aa769c5513e.jpg)
